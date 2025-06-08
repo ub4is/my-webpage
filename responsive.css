@@ -1,0 +1,56 @@
+@media (max-width:450px){
+   #hero{
+     overflow:hidden;
+   }
+    #hero-text{
+    transform: translateX(0);
+   }
+   #hero p{
+    font-size:2em;
+   }
+   #hero-banner{
+         width:90%;
+   }
+   #about h1{
+    font-size:1.5em
+   }
+   #services h1{
+    font-size:2.5em;
+   }
+   #services{
+    padding:20px;
+   }
+   .about-contact-banner,.about-plant,.testimonial-left-banner,.footer-banner{
+    display:none;
+   }
+   #chooseaplan h1{
+    font-size:1.5em;
+   }
+   .plan{
+    margin:auto auto;
+   }
+   #testimonials-text{
+    margin:5%;
+   }
+   #testimonials-text h1{
+    font-size:2em;
+   }
+   #portfolio-text h1{
+    font-size:2em;
+   }
+   #portfolio-images{
+    width:100%;
+   }
+   form{
+    width:90%;
+   }
+   #footer-mail{
+    font-size:1.5em;
+    width:95%;
+  }
+
+   
+}
+
+
+
